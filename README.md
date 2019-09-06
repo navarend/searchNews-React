@@ -1,8 +1,8 @@
 # Web app News
 
 ## Requirements:
-Have Nodejs installed (https://nodejs.org/en/).
-Have create-react-app installed (https://github.com/facebook/create-react-app).
+- Have Nodejs installed (https://nodejs.org/en/).
+- Have create-react-app installed (https://github.com/facebook/create-react-app).
 
 ## In this part contains:
 1. Consume service News API (https://newsapi.org/docs/endpoints/sources).
